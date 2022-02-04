@@ -11,7 +11,7 @@ Pros:
 - Has access to change the version history
 - Easy to use
 Cons:
-- No branches
+- Not as popular
 
 ## Git
 Pros:
