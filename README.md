@@ -36,5 +36,7 @@ Problems in Git https://commonjoe.gitlab.io/git-clarification/index.html
 
 Git Glossary, Alphabetically Sorted https://commonjoe.gitlab.io/git-clarification/Glossary/
 
+Does anyone else hate git as much as I do? https://www.reddit.com/r/git/comments/sz7y4k/does_anyone_else_hate_git_as_much_as_i_do/
+
 Just search on Google for "I hate git" :-)
 
