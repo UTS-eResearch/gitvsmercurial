@@ -1,4 +1,4 @@
-# gitvsmercurial
+# Git versus Mercurial
 
 ## Developers
 
@@ -9,7 +9,7 @@
 Pros:
 - Is prefered for small team
 - Has access to change the version history
-- Easy to use
+- Easier to use, better command line syntax
 Cons:
 - Not as popular
 
