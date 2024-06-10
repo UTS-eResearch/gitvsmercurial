@@ -26,14 +26,15 @@ Cons:
 
 ## References
 
-10 things I hate about Git 
-https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/
+10 things I hate about Git https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/
 
-The Scribbler of the Rueful Countenance, I hate git 
-http://jordi.inversethought.com/blog/i-hate-git/
+The Scribbler of the Rueful Countenance, I hate git http://jordi.inversethought.com/blog/i-hate-git/
 
-The Git Haters Guide 
-https://evan.org/Fun/Git/
+The Git Haters Guide https://evan.org/Fun/Git/
 
-Git Glossary, Alphabetically Sorted 
-https://commonjoe.gitlab.io/git-clarification/Glossary/
+Problems in Git https://commonjoe.gitlab.io/git-clarification/index.html
+
+Git Glossary, Alphabetically Sorted https://commonjoe.gitlab.io/git-clarification/Glossary/
+
+Just search on Google for "I hate git" :-)
+
